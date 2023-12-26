@@ -1,1 +1,3 @@
 # Designing-Database-for-a-Hospital-Using-Python-and-Sqlite-Software.
+
+The core objective of this project is the development of a SQL database meticulously tailored for hospital applications. Employing the programming language Python, I   meticulously crafted a database that not only mirrors real-world scenarios but is also intricately woven with ethical considerations and data privacy policies. The database is structured around three pivotal tables: Patient, Medical, and Treatment. Importantly, this database schema is underpinned by the strategic utilization of primary and foreign keys, facilitating the establishment of relationships among tables, thereby safeguarding data integrity and ensuring efficient relational database management.
